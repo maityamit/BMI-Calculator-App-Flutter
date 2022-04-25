@@ -1,16 +1,31 @@
-# bmi_calculater
+# BMI Calculator : Calculate your BMI
 
-A new Flutter application.
 
-## Getting Started
+<br>
+<h1 align="start">⚙️ Technology Used</h1>
 
-This project is a starting point for a Flutter application.
+|||
+|:----------------------------------------:|:-----------------------------------------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank">  |
+  
+  
+   <h1 align=center> Project Admin  🤵 </h1>
 
-A few resources to get you started if this is your first Flutter project:
+  <p align="center">
+  <a href="https://github.com/maityamit"><img src="https://avatars.githubusercontent.com/u/74618071?v=4" width="11%" /></a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  <p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/maityamit/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="maityamit308@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/amit_maity_2003/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+  
+  <br>
+  
+## 📸 Screenshots
+ 
+ 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
+| ![Imgur](Demo/1.png) | ![Imgur](Demo/2.png) | ![Imgur](Demo/3.png) |
